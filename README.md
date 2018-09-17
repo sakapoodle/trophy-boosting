@@ -1,2 +1,2 @@
 # trophy-boosting
-Trophy boosting-related notes &amp; guides
+Trophy boosting-related notes & guides
