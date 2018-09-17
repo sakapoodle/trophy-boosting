@@ -1,7 +1,15 @@
 ### Overwatch
 
-**Matchmaking method**:
-Get a 3+ stack of players and search for a game of quickplay. Hover over "Leave Game" by pressing triangle and then X. As soon as "Game Found" appears at the top of your screen, leave. You will potentially get on opposite teams. The rest of the people join one of the teams by joining the player's game. The spectators will eventually get in when random players leave.
+**Matchmaking method**:  
+This section describes how to **set up boosting partners on opposite teams**,  
+eg. 4 boosting players to form a 2v2 setup in a match.
+
+- Set up a pre-game lobby of **3-4 boosting players** (even if there are more boosting partners ready to join)
+- Search for a game in **Quickplay** mode.
+- Everyone in the lobby, hover over "Leave Game" by pressing <span>Triangle (&#9651;) then Cross (X)</span>.
+- **(IMPORTANT!)** As soon as _"Game Found"_ appears at the top of your screen, **LEAVE GAME!** With any luck, you will end up on opposite teams with your boosting partners.
+- Once you're set up on opposing team, the rest of the boosting players fill in by going to: Social > Join game (NOT team)
+- They will have to wait as spectators before randoms leave, then they will join the game. Also max 4 people or so can spectate, so if there's more than 4 ppl trying to join in they'll be stuck in the matchmaking queue until the boosting players waiting as spectators join the game.
 
 **Boosting session rules**:
 **#1 In-game**: Don't get AFK kicked - move around and make sure you deal damage and use abilities at least once every 2 minutes.
