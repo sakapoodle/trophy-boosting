@@ -1,6 +1,6 @@
-### Dead by Daylight
+## Dead by Daylight
 
-##### "Where did they go!?" trophy - boosting method:  
+#### "Where did they go!?" trophy - boosting method:  
 
 1. **Find 3 other players** that want to get this trophy.  
 2. Set up **voicechat**, this will improve communication.  
