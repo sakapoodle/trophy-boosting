@@ -13,18 +13,14 @@ this run:
 	- Find all 20 Ex-Missions
 
 event-specific:
-	- Clear Zoradius
-		During the Vic Viper battle, see trophy desc.
-	- After the initial Vic Viper battle, defeat all of the Naritas in under 90 seconds
 	- Unlock all the frames
-		Aumaan Anubis - In the gated valley
-			https://www.youtube.com/watch?v=NEEbhUsaquw
-		Inhert - Inside Fort City's basement in the 2nd level
+		Inhert - Inside Fort City's basement in the 2nd level (layer)
 	- Reveal Ken's alternate outfit
 		After defeating Ardjet in mission 6, tower with molten lava
 
-reload after game clear:
+after game clear:
 	- A rank clear
+	- Clear Zoradius
 
 next run:
 	- ...
