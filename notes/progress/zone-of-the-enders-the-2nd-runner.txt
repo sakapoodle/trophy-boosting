@@ -2,10 +2,8 @@
 after game clear:
 	- Clear Zoradius
 	- Earn a Ranking of SS at Vascilia Battle
-	- Earn a Ranking of SS at Aumaan Crevasse
 
-cleanup:
-	- Find all 20 Ex-Missions
+next run (non-Naked Jehuty)
 	- Unlock all the frames
 		Naked Jehuty
 
