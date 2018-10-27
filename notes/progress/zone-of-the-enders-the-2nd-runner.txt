@@ -1,29 +1,11 @@
-this run:
-	- S rank clear
-		Vascilica - SS
-		Crevice - SS
-		Continues - 0 (if you die do Not continue, reload a save)
-		Saves - 1-19 (save at key points)
-			Mission 3 - After receiving the call from Taper (unless you have Silver Sure Lock already).
-			Mission 4 - Immediately after Vic Viper Battle.
-			Mission 5 - At the very start for the Vascilia Event.
-			Mission 5 - At the start of the Train battle (Even if you have Silver Derailed this will keep your SS rank safe).
-			Mission 9 - As soon as the Aumaan Crevice event starts.
-			Mission 9 - As soon as you get an SS rank on Aumaan Crevice event.
-	- Find all 20 Ex-Missions
-
-event-specific:
-	- Reveal Ken's alternate outfit
-		After defeating Ardjet in mission 6, tower with molten lava
-	- Unlock all the frames
-		Inhert - Inside Fort City's basement in the 2nd level (layer)
 
 after game clear:
-	- A rank clear
 	- Clear Zoradius
 	- Earn a Ranking of SS at Vascilia Battle
 	- Earn a Ranking of SS at Aumaan Crevasse
 
-next run:
-	- ...
+cleanup:
+	- Find all 20 Ex-Missions
+	- Unlock all the frames
+		Naked Jehuty
 
