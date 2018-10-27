@@ -13,14 +13,16 @@ this run:
 	- Find all 20 Ex-Missions
 
 event-specific:
-	- Unlock all the frames
-		Inhert - Inside Fort City's basement in the 2nd level (layer)
 	- Reveal Ken's alternate outfit
 		After defeating Ardjet in mission 6, tower with molten lava
+	- Unlock all the frames
+		Inhert - Inside Fort City's basement in the 2nd level (layer)
 
 after game clear:
 	- A rank clear
 	- Clear Zoradius
+	- Earn a Ranking of SS at Vascilia Battle
+	- Earn a Ranking of SS at Aumaan Crevasse
 
 next run:
 	- ...
