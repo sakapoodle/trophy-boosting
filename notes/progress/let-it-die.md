@@ -1,6 +1,8 @@
 ## Let It Die - Remaining Trophies
 
-### Hoarder's Curse
+### Trophy Progress
+
+**Hoarder's Curse**  
 Sources:
 - https://psnprofiles.com/trophy/5639-let-it-die/12-hoarders-curse  
 - https://letitdie.gamepedia.com/Tales_From_The_Barbs
