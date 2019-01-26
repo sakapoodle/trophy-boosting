@@ -4,7 +4,7 @@
 This section describes how to **set up boosting partners on opposite teams**,  
 eg. 4 boosting players to form a 2v2 setup in a match.
 
-- Set up a pre-game lobby of **3-4 boosting players** (even if there are more boosting players ready to join)
+- Set up a pre-game lobby of **3-4 boosting players** (even if there are more boosting players ready to join), these are the "starters" (or starting players). Primarily this lobby will be comprised of the host and 3 players with mics enabled on voicechat.
 - Search for a game in **Quickplay** mode.
 - Everyone in the lobby, hover over "Leave Group" by pressing <span>Triangle (&#9651;) then Cross (X)</span>.
 - **(IMPORTANT!)** As soon as _"Game Found"_ appears at the top of your screen, **LEAVE GROUP!**  
@@ -13,6 +13,14 @@ eg. 4 boosting players to form a 2v2 setup in a match.
   (**IMPORTANT!** Make sure they choose "Join **Game**" and NOT "Join Group" in order to stay _"ungrouped"_)
 - They will have to **wait as spectators before randoms leave**, then they will join the game.  
   Note that only **max 4 players can spectate**, so if there are 5 players or more trying to "Join Game" they will be **stuck in the matchmaking queue** until more spectator spots are available.
+
+---
+
+#### Preparing for the boosting session:
+Please do the following before the boosting session takes place (within 1 hour of boosting).
+
+- **Send or accept friend requests** from other players on PSN that you will be boosting with. Everyone does not need to be connected, but make sure you have the **"starting players" on your friend list** (usually it's the host and returning players that use mics in voicechat).
+- **Change your [Discord server nickname](https://support.discordapp.com/hc/en-us/articles/219070107-Server-Nicknames) to your PSN ID** for easier identification. Please note that this only changes your nickname locally for the current server, not globally across all Discord servers that you have joined. You may switch back to your preferred nickname on Discord once the boosting session is over.
 
 ---
 

@@ -6,7 +6,8 @@ refer to the full notes for all the details._
 #### Matchmaking method:  
 
 - Set up lobby with **only 4 boosting players**  
-  (even if there are more boosting players ready to join)
+  (even if there are more boosting players ready to join)  
+  Usually the 4 "starting players" are the host and 3 players with mics.
 - Search for a game in **Quickplay** mode.
 - Everyone in the lobby, hover over "Leave Group" by pressing <span>Triangle (&#9651;) then Cross (X)</span>.
 - **(IMPORTANT!)** As soon as _"Game Found"_ appears at the top of your screen, **LEAVE GROUP!**  
@@ -14,6 +15,13 @@ refer to the full notes for all the details._
   (**IMPORTANT!** Make sure they choose "Join **Game**" and NOT "Join Group" in order to stay _"ungrouped"_)
 - Now the remaining boosters will have to **wait as spectators before randoms leave**, then they will join the game.  
   Only **max 4 players can spectate**, so if there're 5 players or more trying to "Join Game" they will be **stuck in the matchmaking queue** until more spectator spots are available.
+
+---
+
+#### Preparing for the boosting session:
+
+- **Send or accept friend requests** from other players on PSN before the session, do this only for the "starting players", don't need everybody on your friendlist.
+- **Change your [Discord server nickname](https://support.discordapp.com/hc/en-us/articles/219070107-Server-Nicknames) to your PSN ID** for easier identification. You may switch back to your preferred nickname on Discord when the session is over.
 
 ---
 
