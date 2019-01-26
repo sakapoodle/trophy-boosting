@@ -22,6 +22,7 @@ refer to the full notes for all the details._
 
 - **Send or accept friend requests** from other players on PSN before the session, do this only for the "starting players", don't need everybody on your friendlist.
 - **Change your [Discord server nickname](https://support.discordapp.com/hc/en-us/articles/219070107-Server-Nicknames) to your PSN ID** for easier identification. You may switch back to your preferred nickname on Discord when the session is over.
+- **Join the Discord voicechat**, we need to have a headcount of how many showed up and will participate in the boosting session.
 
 ---
 

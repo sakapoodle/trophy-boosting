@@ -21,6 +21,7 @@ Please do the following before the boosting session takes place (within 1 hour o
 
 - **Send or accept friend requests** from other players on PSN that you will be boosting with. Everyone does not need to be connected, but make sure you have the **"starting players" on your friend list** (usually it's the host and returning players that use mics in voicechat).
 - **Change your [Discord server nickname](https://support.discordapp.com/hc/en-us/articles/219070107-Server-Nicknames) to your PSN ID** for easier identification. Please note that this only changes your nickname locally for the current server, not globally across all Discord servers that you have joined. You may switch back to your preferred nickname on Discord once the boosting session is over.
+- **Join the Discord voicechat**, we need to know as the start of the boosting session draws closer how many players we have participating.
 
 ---
 
