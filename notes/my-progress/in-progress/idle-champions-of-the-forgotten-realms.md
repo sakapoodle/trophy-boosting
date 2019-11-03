@@ -1,9 +1,11 @@
 Idle Champions
 ===============
 
-priorities:
-	- now:
-DONE		- patron variants, freeplays & challenges
-?		- unlock Azaka
+top-prio:
+	- keep clearing easy variants
 
-?	- gain more favor (Torm) for better event favor conversion rate
+maybe:
+	- FotM Y3 event
+	- Patron challenges
+
+	- unlock Azaka
