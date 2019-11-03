@@ -1,8 +1,10 @@
-## The King of Fighters XIII - Remaining Trophies
+## The King of Fighters XIII
 
 ### Trophy Progress
 
-**You can't compare to me**  
+#### Remaining Trophies
+
+- **You can't compare to me**  
 Trophy description: _Clear Time Attack mode with 30 characters_  
 
 --------------------------

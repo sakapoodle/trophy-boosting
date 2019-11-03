@@ -1,14 +1,16 @@
-## Let It Die - Remaining Trophies
+## Let It Die
 
 ### Trophy Progress
 
-**Hoarder's Curse**  
+#### Remaining Trophies
+
+- **Hoarder's Curse**  
 Sources:
-- https://psnprofiles.com/trophy/5639-let-it-die/12-hoarders-curse  
-- https://letitdie.gamepedia.com/Tales_From_The_Barbs
-- https://letitdie.gamepedia.com/Yotsuyama_Bionics_Catalogue
-    - http://death-drive-128.wikia.com/wiki/YB_Catalogue
-    - https://www.reddit.com/r/LetItDie/comments/5pyox7/bionics_catalog_pages_5_and_6/
+    - https://psnprofiles.com/trophy/5639-let-it-die/12-hoarders-curse  
+    - https://letitdie.gamepedia.com/Tales_From_The_Barbs
+    - https://letitdie.gamepedia.com/Yotsuyama_Bionics_Catalogue
+        - http://death-drive-128.wikia.com/wiki/YB_Catalogue
+        - https://www.reddit.com/r/LetItDie/comments/5pyox7/bionics_catalog_pages_5_and_6/
 
 <!-- TODO: Fill in the rotation for each missing collectible,
            I can do that once I've collected most of the missing collectibles.
