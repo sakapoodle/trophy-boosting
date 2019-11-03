@@ -1,18 +1,16 @@
-## Zone of the Enders: The 2nd Runner HD - Remaining Trophies
+## Zone of the Enders: The 2nd Runner HD
 
 ### Trophy Progress
 
-**[Platinum trophy unlocked]**  
-- https://psnprofiles.com/trophy/1689-zone-of-the-enders-the-2nd-runner-hd-edition/1-desperately-seeking-dingo
-
+![Platinum](https://www.playstationtrophies.org/images/site/icons/trophy_platinum.png) **[Platinum](https://psnprofiles.com/trophy/1689-zone-of-the-enders-the-2nd-runner-hd-edition/1-desperately-seeking-dingo) [obtained!](https://psnprofiles.com/trophies/1689-zone-of-the-enders-the-2nd-runner-hd-edition/ryuji_sakujo)**
 
 ### Trophy Info
 
 **The Good Rescuer - Trophy Info**
-- description of spawn points:
+- Description of spawn points:
     - right-most spawn points on the minimap from top to bottom are: A, B
     - left-most (middle section) spawn points on the minimap from top to bottom are: C, D
-- spawn order and amount of enemies are detailed in the following table:
+- Spawn order and amount of enemies are detailed in the following table:
 
 | Spawn points | Spawn pattern |
 | :----------- | :-----------: |
