@@ -1,11 +1,13 @@
-Idle Champions
-===============
+## Idle Champions
 
-top-prio:
-	- keep clearing easy variants
+### Trophy Progress
 
-maybe:
-	- FotM Y3 event
-	- Patron challenges
+#### Objectives & Priorities
 
-	- unlock Azaka
+**Top priority**:  
+- keep clearing quick variants
+
+**Low/Mid priority**:
+- FotM Y3 event
+- Patron challenges
+- unlock Azaka
