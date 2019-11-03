@@ -7,4 +7,3 @@ It also contains notes pertaining to my specific trophy progress and notes that 
 You can find my PSN gaming profile at:
 - https://psnprofiles.com/ryuji_sakujo
 - https://my.playstation.com/profile/ryuji_sakujo
-
