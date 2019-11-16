@@ -5,7 +5,6 @@
 #### Remaining Trophies
 
 - Defeat 1,000,000 Monsters
-- Complete 72 Variant Adventures
 - Complete 250 Free Play Runs
 
 ### Gameplay Progress
